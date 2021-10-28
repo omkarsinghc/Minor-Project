@@ -1,0 +1,50 @@
+body{
+    margin:0px;
+    background-color: mintcream;
+}.text{
+    padding: 80px 100px 0 100px;
+    color: red;
+}
+h1{
+    font-size:30px;
+    font-family: 'Comfortaa', cursive;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-size:20px;
+    font-family: 'Times New Roman', sans-serif;
+
+}
+nav{
+    display:grid;
+      
+}
+ul {
+    margin: 0;
+    padding: 0;
+  }
+
+.button{
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+
+}
+.btns{
+    padding-top: 150px;
+    margin: auto;
+    width: 30%;
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    text-align: center;
+
+}
+.div2{
+    margin-left: 10px;
+}
+

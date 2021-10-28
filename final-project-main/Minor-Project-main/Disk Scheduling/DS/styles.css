@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}.text{
+    padding: 80px 100px 0 100px;
+    color: white;
+}
+h1{
+    font-size:50px;
+}
+p{
+    font-size:20px;
+}
